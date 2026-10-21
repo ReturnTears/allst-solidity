@@ -1,5 +1,7 @@
 # Solidity
 
+按官方文档章节整理的学习路线在 [modules/README.md](modules/README.md)。每个模块一个文件夹，内有知识点文档和对应的 `.sol` 示例。示例面向 Solidity 0.8.24+，可在 [Remix](https://remix.ethereum.org/) 中直接打开。
+
 ```text
 官方学习地址：https://learnblockchain.cn/docs/solidity/layout-of-source-files.html
 Solidity 是一种合约导向的编程语言，用于实现智能合约。它被设计为在以太坊区块链上运行，但也可以在其他区块链平台上使用。Solidity 通过一系列的语法和特性，允许开发者创建去中心化应用（DApps）。
